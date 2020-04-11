@@ -1,1 +1,9 @@
-This is ajay's first file
+ajay's modifiled file
+A
+A
+A
+B
+B
+B
+A
+This is ajay's first fjle
