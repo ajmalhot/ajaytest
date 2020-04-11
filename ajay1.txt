@@ -1,11 +1,5 @@
-ajay's modifiled file
-A
-C
-sthis is modifiA
-A
-A
-B
-B
-B
-A
-This is ajay's first fjle
+this is my ajay's first text file
+hello ajay
+bye
+
+see you
